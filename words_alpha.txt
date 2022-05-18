@@ -37100,6 +37100,7 @@ phlebotomy
 phlegm
 phlegmatic
 phlegmatically
+phloem
 phlogiston
 phlox
 phobia
@@ -57877,6 +57878,7 @@ xray
 xrayed
 xraying
 xrays
+xylem
 xylophone
 xylophonist
 yacht
