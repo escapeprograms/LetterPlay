@@ -6,6 +6,7 @@ var fs = require("fs");
 const client = new Discord.Client({ intents: [Discord.Intents.FLAGS.GUILDS, Discord.Intents.FLAGS.GUILD_MESSAGES]});
 
 var botPrefix = "L!";
+var token = "";
 
 //array of current games
 var games = [];
@@ -279,4 +280,4 @@ function msgBox(message, title, text) {
   return message.channel.send({embeds:[Embed]});
 }
 
-client.login("OTc0NzgyNjAxODkyMDgxNjg0.GRsoCE.Psj7Kyi_xcURKhGd1e74_tbZbcRZDqiwnyt1ps");
+client.login(token);
