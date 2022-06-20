@@ -5,6 +5,13 @@ Each turn, a player has two options: add a letter to a communal word or challeng
 Each player must make their turn within 30 seconds, or else they'll lose a life.
 You're out once all your lives are gone, and the last player standing wins!
 
+#Adding the Bot
+Invite LetterPlay to your server!
+https://discord.com/api/oauth2/authorize?client_id=974782601892081684&permissions=10304&scope=bot
+
+Run the bot server via Replit
+https://replit.com/@ArchimedesLi/LetterPlay-Discord-Bot
+
 #Commands and rules
 L!start starts a new game.  Only one game can be played per discord channel.
 L!join joins an existing game.  You can only join a game before a player has lost a life.
